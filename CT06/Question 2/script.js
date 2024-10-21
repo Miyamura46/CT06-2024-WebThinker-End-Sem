@@ -6,4 +6,4 @@ const areaOfCircle = () => {
     console.log(ans); 
 }
 
-areaOfC
+areaOfCircle();
