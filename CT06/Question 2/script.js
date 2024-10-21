@@ -5,3 +5,5 @@ const areaOfCircle = () => {
     let ans = pi * radius * radius;
     console.log(ans); 
 }
+
+areaOfC
