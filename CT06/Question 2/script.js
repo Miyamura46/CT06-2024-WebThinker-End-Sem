@@ -3,5 +3,5 @@ let pi = 3.14159
 
 const areaOfCircle = () => {
     let ans = pi * radius * radius;
-    console.png
+    console.log(ans);
 }
